@@ -1,6 +1,7 @@
 ## Welcome to the Debugtionary
 
 If you'd like to learn more about the debugtionary, take a look at our [FAQ](./faq.md)!
+If you'd like to contribute, please see our [Help page](./help.md).
 
 ### Start using the debugtionary
 ###### Pick a letter and get started:

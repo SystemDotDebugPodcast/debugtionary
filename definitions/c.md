@@ -1,5 +1,8 @@
 # C
 
+### Class
+In object-oriented programming, a class is a template definition of the methods, variables, and constants in a particular kind of [object](./o.md#object).
+
 ### Code Review
 When one developer reviews the code of another and gives feedback on it. This happens more often on [pull requests](./p.md#pull-request) and is essential for the growth of both developers.
 
